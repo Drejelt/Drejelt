@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! My name is Drejelt<br><br>I am a beginner backend developer, I am interested in creating server applications in Python.<br><br>🔹 Technologies I worked with:<br>- Backend: Python (FastAPI, Django), some JavaScript, Pawn<br>- Databases: PostgreSQL, MySQL, SQLite<br>- Tools: Git, Docker<br><br>💡 My projects<br>- 🎙️ Voice assistant is my first big project in Python <br>🧬 Evolutionary Simulator of Single-Celled Organisms – A project focused on simulating the evolution of single-celled organisms. This project combines algorithms and biological concepts to simulate evolutionary processes.
+👋 Hello! My name is Drejelt<br><br>I am a beginner backend developer, I am interested in creating server applications in Python.<br><br>🔹 Technologies I worked with:<br>- Backend: Python (FastAPI, Django), some JavaScript, Pawn<br>- Databases: PostgreSQL, MySQL, SQLite<br>- Tools: Git, Docker<br><br>💡 My projects<br>- 🎙️ Voice assistant is my first big project in Python <br>- 🧬 Evolutionary Simulator of Single-Celled Organisms – A project focused on simulating the evolution of single-celled organisms. This project combines algorithms and biological concepts to simulate evolutionary processes.
 
 
 # 💻 Tech Stack:
