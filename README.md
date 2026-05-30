@@ -1,18 +1,96 @@
-# 💫 About Me:
-👋 Hello! My name is Drejelt<br><br>I am a beginner backend developer, I am interested in creating server applications in Python.<br><br>🔹 Technologies I worked with:<br>- Backend: Python (FastAPI, Django), some JavaScript, Pawn<br>- Databases: PostgreSQL, MySQL, SQLite<br>- Tools: Git, Docker<br><br>💡 My projects<br>- 🎙️ Voice assistant is my first big project in Python <br>- 🧬 Evolutionary Simulator of Single-Celled Organisms – A project focused on simulating the evolution of single-celled organisms. This project combines algorithms and biological concepts to simulate evolutionary processes.
+# 👋 Hi, I'm Drejelt
 
+I'm a self-taught Linux enthusiast focused on infrastructure, automation and self-hosted services.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Drejelt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Drejelt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Drejelt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Over the last few years I've been building and maintaining my own VPS infrastructure, automating deployments, configuring VPN networks and solving real-world Linux administration problems.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Drejelt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Currently I'm interested in:
+
+- Linux administration
+- DevOps and infrastructure automation
+- Networking and WireGuard
+- Self-hosted services
+- Bash scripting
+- Backend development with Python
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Drejelt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+### 🔐 VPN Gateway
+A full VPN router built with:
+
+- WireGuard
+- hostapd
+- dnsmasq
+- policy routing
+- NAT
+- Telegram monitoring
+
+Features:
+
+- Wi-Fi + LAN traffic routing through WireGuard
+- Kill switch
+- DNS leak protection
+- Watchdog recovery
+- Idempotent installer
+
+### 🖥 VPS Setup Toolkit
+
+Automated VPS deployment and configuration:
+
+- WireGuard
+- Pi-hole
+- Unbound
+- UFW
+- Secure SSH configuration
+
+Designed to safely bootstrap Debian/Ubuntu servers with minimal manual work.
+
+### 🎙 Voice Assistant
+
+My first large Python project focused on speech processing and backend logic.
+
+### 🧬 Evolutionary Simulator
+
+Simulation of single-celled organism evolution using custom algorithms inspired by biological processes.
+
+---
+
+## 🛠 Tech Stack
+
+### Infrastructure
+
+- Linux
+- WireGuard
+- Systemd
+- UFW
+- iptables
+- DNS (Pi-hole, Unbound, dnsmasq)
+- SSH
+- VPS administration
+
+### Development
+
+- Python
+- FastAPI
+- Django
+- PostgreSQL
+- MySQL
+- SQLite
+- Git
+
+### Currently Learning
+
+- Docker
+- Docker Compose
+- CI/CD concepts
+
+---
+
+## 📈 Current Goals
+
+- Build a stronger DevOps portfolio
+- Improve Docker and containerization skills
+- Learn infrastructure monitoring and automation
+- Land my first junior sysadmin / DevOps role
