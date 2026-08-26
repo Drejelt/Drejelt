@@ -126,5 +126,6 @@ This is why many of my projects naturally involve networking, health checks, log
 
 ## Contact
 
+- Email: [valentin.chernovol23@gmail.com](mailto:valentin.chernovol23@gmail.com)
+- Telegram: [@USERNAME](https://t.me/@riz3PohD)
 - LinkedIn: [Valentyn Chernovol](https://www.linkedin.com/in/valentyn-chernovol-6846b2204/)
-- GitHub: [@Drejelt](https://github.com/Drejelt)
