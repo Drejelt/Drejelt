@@ -97,7 +97,7 @@ While very different from my infrastructure projects, it gives me an environment
 
 **Tech:** Godot · Game Systems · Performance Optimisation
 
-## 🔧 How I Approach Projects
+## How I Approach Projects
 
 I prefer projects where I can understand and control the complete system rather than only one isolated component.
 
