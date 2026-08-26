@@ -6,7 +6,7 @@ I build Linux-based infrastructure, networking, and automation projects with a f
 
 My main interests are Linux systems, networking, infrastructure automation, and security. I enjoy understanding how systems behave under failure, automating repetitive operations, and turning manual configurations into reproducible deployments.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Systems & Infrastructure**
 - Linux (primarily Debian)
